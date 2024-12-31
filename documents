@@ -10,3 +10,8 @@ Oracle database
 Mysql database
 DBconnect
 DBconfig
+Student info
+student Model class
+Student DAO
+Student Service
+
