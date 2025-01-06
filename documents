@@ -10,8 +10,10 @@ Oracle database
 Mysql database
 DBconnect
 DBconfig
+Payroll syatem
+Employee payroll
+Trainers payroll
 Student info
 student Model class
 Student DAO
 Student Service
-
